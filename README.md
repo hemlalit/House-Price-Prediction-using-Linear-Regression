@@ -47,15 +47,15 @@ This project helped reinforce the mathematical intuition behind this equation an
 
 <br/>
 
-📎 Dataset
+## 📎 Dataset
 This is a dummy dataset created for learning purposes. While it doesn’t reflect actual housing market conditions, it helps build foundational concepts clearly.
 
 <br/>
 
-📬 Feedback & Contribution
+## 📬 Feedback & Contribution
 Got suggestions or improvements? Feel free to fork this repository and create a pull request.
 
 <br/>
 
-📣 Stay tuned!
+## 📣 Stay tuned!
 More machine learning and data science projects are on the way. Follow the repo to stay updated!
